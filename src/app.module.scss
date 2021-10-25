@@ -1,0 +1,16 @@
+.root {
+  user-select: none;
+}
+
+.container {
+  position: relative;
+  height: 500px;
+}
+
+.photo {
+  position: absolute;
+  top: 27px;
+  left: 18px;
+  height: 356px;
+  width: 263px;
+}

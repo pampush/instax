@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  padding: 10px;
+}
+
+.item {
+  height: 320px;
+  width: 160px;
+  padding: 10px;
+}
+
+.selected {
+  border: 1px solid red;
+}
