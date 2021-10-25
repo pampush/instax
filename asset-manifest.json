@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/instax/static/css/main.311d0051.chunk.css",
+    "main.js": "/instax/static/js/main.e30d618c.chunk.js",
+    "main.js.map": "/instax/static/js/main.e30d618c.chunk.js.map",
+    "runtime-main.js": "/instax/static/js/runtime-main.ffb97083.js",
+    "runtime-main.js.map": "/instax/static/js/runtime-main.ffb97083.js.map",
+    "static/js/2.d770bb0c.chunk.js": "/instax/static/js/2.d770bb0c.chunk.js",
+    "static/js/2.d770bb0c.chunk.js.map": "/instax/static/js/2.d770bb0c.chunk.js.map",
+    "static/js/3.7f607702.chunk.js": "/instax/static/js/3.7f607702.chunk.js",
+    "static/js/3.7f607702.chunk.js.map": "/instax/static/js/3.7f607702.chunk.js.map",
+    "index.html": "/instax/index.html",
+    "static/css/main.311d0051.chunk.css.map": "/instax/static/css/main.311d0051.chunk.css.map",
+    "static/js/2.d770bb0c.chunk.js.LICENSE.txt": "/instax/static/js/2.d770bb0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffb97083.js",
+    "static/js/2.d770bb0c.chunk.js",
+    "static/css/main.311d0051.chunk.css",
+    "static/js/main.e30d618c.chunk.js"
+  ]
+}
